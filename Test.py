@@ -1,4 +1,4 @@
 x='g'
 d='g'
 y=x+d
-print(y)
+print("x + d =",y)
